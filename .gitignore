@@ -1,1 +1,4 @@
 datasplit/
+datasplit/test/
+datasplit/train/
+datasplit/val/
